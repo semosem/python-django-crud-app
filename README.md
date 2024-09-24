@@ -1,9 +1,9 @@
 # Django-based web application that allows users to upload, manage, and share videos.
 
-Features:
-Upload and store video files.
-Basic video management (CRUD operations).
-Simple video listing page.
+## Features:
+- Upload and store video files.
+- Basic video management (CRUD operations).
+- Simple video listing page.
 
 ## Setup Instructions:
 
