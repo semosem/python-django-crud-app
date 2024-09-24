@@ -1,0 +1,4 @@
+crispy_bootstrap4
+crispy_forms
+
+allauth
