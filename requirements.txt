@@ -1,4 +1,5 @@
 crispy_bootstrap4
-crispy_forms
+django-crispy-forms
 
-allauth
+django-allauth
+django
